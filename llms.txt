@@ -1,0 +1,22 @@
+# Deborah Morris Home Team
+
+> Deborah & Chuck Morris, REALTORS® with Keller Williams Advantage Realty, serving Seminole County, Orange County, Lake County, Volusia County & surrounding areas in Central Florida since 2012.
+
+Deborah Morris (Primary Listing Agent, FL Lic. #SL3258271) brings a background in interior design and furniture, with a focus on staging and presenting homes. Charles "Chuck" Morris (Primary Buyer Agent, FL Lic. #SL3340733) brings a field-engineer and IT background. Together they operate as the Deborah Morris Home Team, REALTORS®, affiliated with Keller Williams Advantage Realty (FL Lic. #BK3454836).
+
+More than 70% of the team's business comes from repeat clients and referrals. Contact: 321-348-0014, info@DeborahMorrisHomeTeam.com.
+
+## Pages
+
+- [Home](https://hub.deborahmorrishometeam.com/): Team overview, service area, and property search.
+- [Deborah Morris](https://hub.deborahmorrishometeam.com/agents/deborah-morris): Agent bio.
+- [Chuck Morris](https://hub.deborahmorrishometeam.com/agents/chuck-morris): Agent bio.
+- [Events](https://hub.deborahmorrishometeam.com/events): Community events hosted by the team, in chronological order.
+- [Updates](https://hub.deborahmorrishometeam.com/updates): Local real estate updates.
+- [FAQ](https://hub.deborahmorrishometeam.com/faq): Answers to common questions about working with the team.
+- [Contact](https://hub.deborahmorrishometeam.com/contact): Contact form and details.
+- [Terms & Conditions](https://hub.deborahmorrishometeam.com/terms): Terms of use, including an AI usage and content disclosure section.
+
+## Notes
+
+This site is built with the assistance of Claude (Anthropic) for code, and ChatGPT, Gemini, Higgsfield, and CapCut for images and video. See the Terms & Conditions page for the full AI usage disclosure.

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hub.deborahmorrishometeam.com/sitemap.xml
